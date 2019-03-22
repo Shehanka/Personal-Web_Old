@@ -1,0 +1,1386 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://chamodshehanka.com" resolutions="1x" timestamp="1500383324660">
+  <folder name="css">
+    <file name="site_global.css" crc="4216065034"/>
+    <file name="master_template.css" crc="482648293" ref="aboutme:sripalee-website:creations:swimming-life:webhost:skills:music:karate:dominos:contact:lifestyle:my-site"/>
+    <file name="nomq_preview_master_template.css" crc="3824530138" ref="aboutme:sripalee-website:creations:swimming-life:webhost:skills:music:karate:dominos:contact:lifestyle:my-site"/>
+    <file name="aboutme.css" crc="322460425" ref="aboutme"/>
+    <file name="nomq_aboutme.css" crc="4276029336" ref="aboutme"/>
+    <file name="sripalee-website.css" crc="4099981439" ref="sripalee-website"/>
+    <file name="nomq_sripalee-website.css" crc="4065314211" ref="sripalee-website"/>
+    <file name="creations.css" crc="325900197" ref="creations"/>
+    <file name="nomq_creations.css" crc="3977109536" ref="creations"/>
+    <file name="swimming-life.css" crc="445818374" ref="swimming-life"/>
+    <file name="nomq_swimming-life.css" crc="3892713784" ref="swimming-life"/>
+    <file name="index.css" crc="4133526293" ref="index"/>
+    <file name="webhost.css" crc="302710066" ref="webhost"/>
+    <file name="nomq_webhost.css" crc="4274628626" ref="webhost"/>
+    <file name="skills.css" crc="3911116018" ref="skills"/>
+    <file name="nomq_skills.css" crc="3774020777" ref="skills"/>
+    <file name="music.css" crc="4175562348" ref="music"/>
+    <file name="nomq_music.css" crc="3802801501" ref="music"/>
+    <file name="karate.css" crc="80363673" ref="karate"/>
+    <file name="nomq_karate.css" crc="4146887205" ref="karate"/>
+    <file name="dominos.css" crc="4272755007" ref="dominos"/>
+    <file name="nomq_dominos.css" crc="278671899" ref="dominos"/>
+    <file name="contact.css" crc="467171427" ref="contact"/>
+    <file name="lifestyle.css" crc="325885403" ref="lifestyle"/>
+    <file name="nomq_lifestyle.css" crc="4245132931" ref="lifestyle"/>
+    <file name="my-site.css" crc="427243174" ref="my-site"/>
+    <file name="nomq_my-site.css" crc="4247451657" ref="my-site"/>
+  </folder>
+  <folder name="assets">
+    <file name="google164941209cec8f0f.html" crc="384783503" seo="true" mt="1491973894000"/>
+    <file name="removewebhost.css" crc="3760981798" seo="true" mt="1500373908000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>lifestyle:phone>about-me:phone>creations:phone>contact:phone>my-site:phone>sripalee-site:phone>skills:phone>swimming-life:phone>karate:phone>music:index:lifestyle:aboutme:creations:contact:my-site:sripalee-website:swimming-life:skills:karate:music:dominos:webhost"/>
+    <file name="museutils.js" crc="4216313831" ref="phone>index:phone>lifestyle:phone>about-me:phone>creations:phone>contact:phone>my-site:phone>sripalee-site:phone>skills:phone>swimming-life:phone>karate:phone>music:index:lifestyle:aboutme:creations:contact:my-site:sripalee-website:swimming-life:skills:karate:music:dominos:webhost"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>lifestyle:phone>about-me:phone>creations:phone>contact:phone>my-site:phone>sripalee-site:phone>skills:phone>swimming-life:phone>karate:phone>music:index:lifestyle:aboutme:creations:contact:my-site:sripalee-website:swimming-life:skills:karate:music:dominos:webhost"/>
+    <file name="museconfig.js" crc="474374037" ref="phone>index:phone>lifestyle:phone>about-me:phone>creations:phone>contact:phone>my-site:phone>sripalee-site:phone>skills:phone>swimming-life:phone>karate:phone>music:index:lifestyle:aboutme:creations:contact:my-site:sripalee-website:swimming-life:skills:karate:music:dominos:webhost"/>
+    <file name="webpro.js" crc="4143865194" ref="phone>index:phone>lifestyle:phone>about-me:phone>creations:phone>contact:phone>my-site:phone>sripalee-site:phone>skills:phone>swimming-life:phone>karate:phone>music:index:lifestyle:contact:dominos"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="phone>index:phone>lifestyle:phone>about-me:phone>creations:phone>contact:phone>my-site:phone>sripalee-site:phone>skills:phone>swimming-life:phone>karate:phone>music:index:lifestyle:dominos"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="phone>index:phone>lifestyle:phone>about-me:phone>creations:phone>contact:phone>my-site:phone>sripalee-site:phone>skills:phone>swimming-life:phone>karate:phone>music:index:lifestyle:dominos"/>
+    <file name="touchswipe.js" crc="4200445185" ref="phone>index:phone>lifestyle:phone>about-me:phone>creations:phone>contact:phone>my-site:phone>sripalee-site:phone>skills:phone>swimming-life:phone>karate:phone>music:index:lifestyle:dominos"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="phone>index:phone>lifestyle:phone>about-me:phone>creations:phone>contact:phone>my-site:phone>sripalee-site:phone>skills:phone>swimming-life:phone>karate:phone>music"/>
+    <file name="jquery.watch.js" crc="460461809" ref="phone>index:phone>lifestyle:phone>about-me:phone>creations:phone>contact:phone>my-site:phone>sripalee-site:phone>skills:phone>swimming-life:phone>karate:phone>music:index:lifestyle:aboutme:creations:contact:my-site:sripalee-website:swimming-life:skills:karate:music:dominos:webhost"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>lifestyle:phone>about-me:phone>creations:phone>contact:phone>my-site:phone>sripalee-site:phone>skills:phone>swimming-life:phone>karate:phone>music:index:lifestyle:aboutme:creations:contact:my-site:sripalee-website:swimming-life:skills:karate:music:dominos:webhost"/>
+    <file name="require.js" crc="3951022091" ref="phone>index:phone>lifestyle:phone>about-me:phone>creations:phone>contact:phone>my-site:phone>sripalee-site:phone>skills:phone>swimming-life:phone>karate:phone>music:index:lifestyle:aboutme:creations:contact:my-site:sripalee-website:swimming-life:skills:karate:music:dominos:webhost"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="phone>lifestyle:phone>about-me:phone>contact:index:lifestyle:aboutme:creations:contact"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="phone>about-me:phone>creations:aboutme:creations"/>
+    <file name="form_check.php" crc="242608095" ref="phone>contact"/>
+    <file name="form_process.php" crc="3919209671" ref="phone>contact"/>
+    <file name="form-u27749.php" crc="4069295284" ref="phone>contact"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="lifestyle:aboutme:creations:my-site:sripalee-website:swimming-life:skills:karate:music:dominos:webhost"/>
+    <file name="form-u9842.php" crc="472115945" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="4112191824" ref="phone>index"/>
+    <file name="officialmobile.jpg" crc="4035834183" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>lifestyle:index:lifestyle:aboutme:creations:my-site:sripalee-website:swimming-life:skills:karate:music:dominos:webhost"/>
+    <file name="dominos mobile.jpg" crc="4204513882" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beach2.jpg" crc="494465426" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nightlife-hd-crowd-wallpaper.jpg" crc="4198852331" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>lifestyle:index:lifestyle:dominos"/>
+    <file name="lifestyle-favicon.ico" crc="4112191824" ref="phone>lifestyle"/>
+    <file name="logo-c s.png" crc="157058832" ref="phone>lifestyle:index:lifestyle:aboutme:creations:contact">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="logo.png" crc="334371695" ref="phone>lifestyle:index:lifestyle:aboutme:creations:contact">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="logo-u1433-fr.png" crc="4256215058" ref="phone>lifestyle:phone>about-me"/>
+    <file name="logo-u1433-r-fr.png" crc="4082122283" ref="phone>lifestyle:phone>about-me"/>
+    <file name="img_0916307x282.jpg" crc="330501204" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_1083424x282.jpg" crc="40693022" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_1305450x275.jpg" crc="429244949" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_8229424x282.jpg" crc="69681237" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_8794385x282.jpg" crc="262995483" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170402_15_09_48_pro1283x282.jpg" crc="3877736311" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170402_15_11_34_pro1450x253.jpg" crc="472371851" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0217253x190.jpg" crc="4050319653" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0216450x338.jpg" crc="237649427" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0241450x338.jpg" crc="510305937" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc03404450x338.jpg" crc="60876613" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0114450x338.jpg" crc="26768315" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0117502x282.jpg" crc="486351767" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0125502x282.jpg" crc="201068504" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0132502x282.jpg" crc="503219553" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0162502x282.jpg" crc="4099697019" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0166502x282.jpg" crc="175283733" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0190502x282.jpg" crc="19120248" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170122_10_16_16_pro_00-crop-u3254.jpg" crc="4145017224" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170122_10_17_41_pro-crop-u3250.jpg" crc="228387908" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170122_10_37_17_pro-crop-u3266.jpg" crc="4207788105" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_0916113x103.jpg" crc="301709435" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_1083-crop-u39281.jpg" crc="3872719865" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_1305-crop-u39307.jpg" crc="385152948" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_8229-crop-u39333.jpg" crc="3942637656" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_8794-crop-u39359.jpg" crc="4276849371" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170402_15_09_48_pro1112x112.jpg" crc="4251659914" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170402_15_11_34_pro1-crop-u39439.jpg" crc="4269315072" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0217138x103.jpg" crc="4072833542" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0216138x103.jpg" crc="4269637855" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0241138x103.jpg" crc="7238175" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc03404138x103.jpg" crc="4237617062" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0114138x103.jpg" crc="260189142" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0117-crop-u3285.jpg" crc="3869807379" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0125-crop-u3299.jpg" crc="178518862" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0132-crop-u3291.jpg" crc="4086866341" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0162-crop-u3289.jpg" crc="4104112606" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0166-crop-u3301.jpg" crc="490262781" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0190-crop-u3279.jpg" crc="4058166765" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170122_10_16_16_pro_00130x103.jpg" crc="459502311" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170122_10_17_41_pro-crop-u3275.jpg" crc="4133706643" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170122_10_37_17_pro-crop-u3277.jpg" crc="4072562524" seo="true" ref="phone>lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="template-favicon.ico" crc="15906419" ref="phone>about-me"/>
+    <file name="banner.jpg" crc="472079103" seo="true" ref="phone>about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="17799079_852253988248570_6186461799638633370_n127x127.jpg" crc="4229212188" seo="true" ref="phone>about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="pop.png" crc="4282770440" seo="true" ref="phone>about-me:phone>skills:aboutme:skills">
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+    </file>
+    <file name="swim.jpg" crc="4290276179" ref="phone>about-me:aboutme">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+    </file>
+    <file name="karate.jpg" crc="495582309" ref="phone>about-me:aboutme">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+    </file>
+    <file name="violin.jpg" crc="3944101490" ref="phone>about-me:aboutme">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+    </file>
+    <file name="michael-phelps-photo-wallpapers-image-1600x900174x98.jpg" crc="284953591" seo="true" ref="phone>about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="featured-in-u28503.png" crc="3818682917" ref="phone>creations"/>
+    <file name="mysite-u28528.png" crc="534303417" ref="phone>creations"/>
+    <file name="sripalee-u28558.png" crc="257982764" ref="phone>creations"/>
+    <file name="facebook-white.png" crc="3832766740" ref="phone>contact:index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+    </file>
+    <file name="facebook.png" crc="3985728371" ref="phone>contact:index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+    </file>
+    <file name="instagram-white.png" crc="278381201" ref="phone>contact:index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+    </file>
+    <file name="instagram--group-.png" crc="231469729" ref="phone>contact:index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+    </file>
+    <file name="twittere-u36068-fr.png" crc="59118944" ref="phone>contact:lifestyle:aboutme:creations:contact"/>
+    <file name="twittere-colored.png" crc="4175042721" ref="phone>contact:index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+    </file>
+    <file name="linkedin-white.png" crc="3863846991" ref="phone>contact:index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+    </file>
+    <file name="linkedin-colored.png" crc="4122274549" ref="phone>contact:index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+    </file>
+    <file name="snapchat-white.png" crc="487358000" ref="phone>contact:index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+    </file>
+    <file name="snapchat-colored.png" crc="3760307295" ref="phone>contact:index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+    </file>
+    <file name="soundcloud-white.png" crc="416875532" ref="phone>contact:index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+    </file>
+    <file name="soundcloud-colored.png" crc="4040530180" ref="phone>contact:index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+    </file>
+    <file name="email-marketing348x232.jpg" crc="4205097027" seo="true" ref="phone>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="mysite banner.jpg" crc="4148395556" ref="phone>my-site:my-site:dominos">
+      <caption webpage="dominos" alt=""/>
+      <caption webpage="dominos" alt=""/>
+      <caption webpage="my-site" alt=""/>
+      <caption webpage="my-site" alt=""/>
+      <caption webpage="my-site" alt=""/>
+    </file>
+    <file name="website out now295x141.jpg" crc="4251191932" seo="true" ref="phone>my-site">
+      <caption webpage="my-site" alt=""/>
+    </file>
+    <file name="adobe_photoshop_cc_iconsvg.png" crc="108355249" seo="true" ref="phone>my-site:my-site">
+      <caption webpage="my-site" alt=""/>
+      <caption webpage="my-site" alt=""/>
+      <caption webpage="my-site" alt=""/>
+    </file>
+    <file name="adobe_edge_animate.png" crc="4007932543" seo="true" ref="phone>my-site:my-site">
+      <caption webpage="my-site" alt=""/>
+      <caption webpage="my-site" alt=""/>
+      <caption webpage="my-site" alt=""/>
+    </file>
+    <file name="sripaleeweb.jpg" crc="3971802321" ref="phone>sripalee-site:sripalee-website">
+      <caption webpage="sripalee-site" alt=""/>
+      <caption webpage="sripalee-website" alt=""/>
+      <caption webpage="sripalee-website" alt=""/>
+    </file>
+    <file name="screenshot (32)246x123.jpg" crc="4047031498" seo="true" ref="phone>sripalee-site">
+      <caption webpage="sripalee-site" alt=""/>
+    </file>
+    <file name="copdxekkuyciw3j7nvj6.jpg" crc="180980007" seo="true" ref="phone>sripalee-site">
+      <caption webpage="sripalee-site" alt=""/>
+    </file>
+    <file name="w3schools1.jpg" crc="427175712" seo="true" ref="phone>sripalee-site:sripalee-website">
+      <caption webpage="sripalee-site" alt=""/>
+      <caption webpage="sripalee-website" alt=""/>
+      <caption webpage="sripalee-website" alt=""/>
+    </file>
+    <file name="adobe_dreamweaver_cs6_icon.png" crc="4032547513" seo="true" ref="phone>sripalee-site:sripalee-website">
+      <caption webpage="sripalee-site" alt=""/>
+      <caption webpage="sripalee-website" alt=""/>
+      <caption webpage="sripalee-website" alt=""/>
+    </file>
+    <file name="adobe_fireworks_cs6_icon.png" crc="249782295" seo="true" ref="phone>sripalee-site:sripalee-website">
+      <caption webpage="sripalee-site" alt=""/>
+      <caption webpage="sripalee-website" alt=""/>
+      <caption webpage="sripalee-website" alt=""/>
+    </file>
+    <file name="skillsbanner.jpg" crc="22691770" ref="phone>skills:skills">
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+    </file>
+    <file name="swimminglife.jpg" crc="303500539" ref="phone>swimming-life:swimming-life">
+      <caption webpage="swimming-life" alt=""/>
+      <caption webpage="swimming-life" alt=""/>
+      <caption webpage="swimming-life" alt=""/>
+    </file>
+    <file name="michael-phelps-natation-olympics_1920x1200_477-wide180x113.jpg" crc="3785484152" seo="true" ref="phone>swimming-life">
+      <caption webpage="swimming-life" alt=""/>
+    </file>
+    <file name="karatebanner.jpg" crc="399485966" seo="true" ref="phone>karate">
+      <caption webpage="karate" alt=""/>
+    </file>
+    <file name="wp_20170122_10_16_16_pro196x155.jpg" crc="135105884" seo="true" ref="phone>karate">
+      <caption webpage="karate" alt=""/>
+    </file>
+    <file name="musicbanner.jpg" crc="355397750" seo="true" ref="phone>music">
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="violinn188x141.jpg" crc="296121916" seo="true" ref="phone>music">
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="website out now.jpg" crc="133526600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dominos banner.jpg" crc="16588186" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website out now-crop-u10230.jpg" crc="505317262" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dominos banner-crop-u33767.jpg" crc="3765694357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beach2-crop-u102.jpg" crc="39923823" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nightlife-hd-crowd-wallpaper-crop-u298.jpg" crc="4293486701" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bthome-home white.png" crc="500987883" ref="index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="bthome.png" crc="379318017" ref="index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="btcreations-creation white.png" crc="4034588976" ref="index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="btcreations-creation.png" crc="3759433086" ref="index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="btlifestyle-home white.png" crc="4229068237" ref="index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="btlifestyle.png" crc="4222662816" ref="index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="btaboutme-home white.png" crc="157045888" ref="index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="btaboutme-home.png" crc="262060075" ref="index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="btcontact-home white.png" crc="155361179" ref="index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="btcontact.png" crc="4210367440" ref="index:lifestyle:aboutme:creations:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="twittere-white.png" crc="411457180" ref="index:lifestyle:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="img_5938.jpg" crc="4268956132" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_5976.jpg" crc="4066691144" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_6014.jpg" crc="3994900583" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_6095.jpg" crc="304190513" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_6163.jpg" crc="3891076642" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_6317.jpg" crc="409462756" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_8229.jpg" crc="3940139044" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_0916.jpg" crc="509627317" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_1083.jpg" crc="4070347090" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_1305.jpg" crc="535023598" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_8794.jpg" crc="4167916347" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170402_15_09_48_pro1.jpg" crc="485856250" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170402_15_11_34_pro1.jpg" crc="482167608" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="edit2.jpg" crc="3965335084" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="edit1.jpg" crc="3780270366" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0259.jpg" crc="73296622" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0255.jpg" crc="212385597" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0247.jpg" crc="4209230421" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0251.jpg" crc="514865021" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="16807490_1037319333079420_2745116385654721362_n.jpg" crc="443040433" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0217.jpg" crc="4069952822" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0216.jpg" crc="160044959" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0241.jpg" crc="3878970874" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc03404.jpg" crc="4293694935" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0114.jpg" crc="4216193115" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0117.jpg" crc="207991723" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0125.jpg" crc="186276120" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0132.jpg" crc="4029335442" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0162.jpg" crc="392632444" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0166.jpg" crc="423449428" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0190.jpg" crc="112957243" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170122_10_16_16_pro_00.jpg" crc="4004254683" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170122_10_17_41_pro.jpg" crc="4184051393" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170122_10_37_17_pro.jpg" crc="4292627618" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_5938313x209.jpg" crc="295416935" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_5976313x209.jpg" crc="306620604" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_6014313x209.jpg" crc="3835366850" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_6095313x209.jpg" crc="3877370470" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_6163313x209.jpg" crc="3957537452" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_6317313x209.jpg" crc="3984443117" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_8229313x209.jpg" crc="3959985414" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_0916-crop-u38681.jpg" crc="4254611847" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_1083313x209.jpg" crc="14189038" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_1305325x198.jpg" crc="178616048" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_8794313x230.jpg" crc="4009667013" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170402_15_09_48_pro1-crop-u39484.jpg" crc="240336350" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170402_15_11_34_pro1353x198.jpg" crc="283511843" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="edit2352x198.jpg" crc="36945175" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="edit1313x239.jpg" crc="4128131971" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0259313x235.jpg" crc="4277715295" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0255313x235.jpg" crc="4084610021" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0247313x235.jpg" crc="4290344246" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0251313x235.jpg" crc="4115122448" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="16807490_1037319333079420_2745116385654721362_n313x236.jpg" crc="4038127622" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0217313x235.jpg" crc="4194051143" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0216313x235.jpg" crc="425606401" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0241313x235.jpg" crc="353585605" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc03404313x235.jpg" crc="3957973261" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0114313x235.jpg" crc="4063869858" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0117352x198.jpg" crc="341836469" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0125352x198.jpg" crc="67226569" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0132352x198.jpg" crc="329567108" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0162352x198.jpg" crc="4101188511" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0166352x198.jpg" crc="116601298" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="dsc_0190352x198.jpg" crc="3822425283" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170122_10_16_16_pro_00-crop-u1838.jpg" crc="195737810" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170122_10_17_41_pro-crop-u2108.jpg" crc="4000020978" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170122_10_37_17_pro-crop-u2139.jpg" crc="4004062769" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="img_0916-crop-u386812.jpg" crc="4254611847" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170402_15_09_48_pro1-crop-u394842.jpg" crc="240336350" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170122_10_16_16_pro_00-crop-u18382.jpg" crc="195737810" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170122_10_17_41_pro-crop-u21082.jpg" crc="4000020978" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="wp_20170122_10_37_17_pro-crop-u21392.jpg" crc="4004062769" seo="true" ref="lifestyle">
+      <caption webpage="lifestyle" alt=""/>
+    </file>
+    <file name="aboutme-favicon.ico" crc="15906419" ref="aboutme"/>
+    <file name="banner2.jpg" crc="3826598281" ref="aboutme">
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+    </file>
+    <file name="u4904-4.png" crc="3980500315" ref="aboutme"/>
+    <file name="17799079_852253988248570_6186461799638633370_n.jpg" crc="4631579" seo="true" ref="aboutme">
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+    </file>
+    <file name="me-u4769.png" crc="260199128" ref="aboutme"/>
+    <file name="michael-phelps-photo-wallpapers-image-1600x900.jpg" crc="464499281" seo="true" ref="aboutme">
+      <caption webpage="aboutme" alt=""/>
+      <caption webpage="aboutme" alt=""/>
+    </file>
+    <file name="creations-favicon.ico" crc="15906419" ref="creations"/>
+    <file name="featured-in-u10144.png" crc="412033743" ref="creations"/>
+    <file name="screenshot (70).jpg" crc="106439848" seo="true" ref="creations">
+      <caption webpage="creations" alt=""/>
+      <caption webpage="creations" alt=""/>
+    </file>
+    <file name="mysite-u10252.png" crc="3837041721" ref="creations"/>
+    <file name="sripalee-u11209.png" crc="3871595298" ref="creations"/>
+    <file name="featured-in-u101442.png" crc="430853895" ref="creations"/>
+    <file name="mysite-u102522.png" crc="526599681" ref="creations"/>
+    <file name="sripalee-u112092.png" crc="3871595298" ref="creations"/>
+    <file name="facebook-u8392-fr.png" crc="3828176839" ref="creations"/>
+    <file name="twittere-u8394-fr.png" crc="4224148244" ref="creations"/>
+    <file name="twittere-u8394-r-fr.png" crc="117774077" ref="creations"/>
+    <file name="soundcloud-u8397-fr.png" crc="86219042" ref="creations"/>
+    <file name="soundcloud-u8397-r-fr.png" crc="127833260" ref="creations"/>
+    <file name="contact-favicon.ico" crc="15906419" ref="contact"/>
+    <file name="email-marketing.jpg" crc="476289057" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="slit shadow 2 sharp.png" crc="510555609" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="my-site-favicon.ico" crc="15906419" ref="my-site"/>
+    <file name="website out now1057x506.jpg" crc="4071394431" seo="true" ref="my-site">
+      <caption webpage="my-site" alt=""/>
+    </file>
+    <file name="website out now961x460.jpg" crc="333365173" seo="true" ref="my-site">
+      <caption webpage="my-site" alt=""/>
+    </file>
+    <file name="sripalee-website-favicon.ico" crc="15906419" ref="sripalee-website"/>
+    <file name="screenshot (32).jpg" crc="220421955" seo="true" ref="sripalee-website">
+      <caption webpage="sripalee-website" alt=""/>
+      <caption webpage="sripalee-website" alt=""/>
+    </file>
+    <file name="copdxekkuyciw3j7nvj6-crop-u21493.jpg" crc="3791279857" seo="true" ref="sripalee-website">
+      <caption webpage="sripalee-website" alt=""/>
+    </file>
+    <file name="copdxekkuyciw3j7nvj6-crop-u214932.jpg" crc="176342342" seo="true" ref="sripalee-website">
+      <caption webpage="sripalee-website" alt=""/>
+    </file>
+    <file name="swimming-life-favicon.ico" crc="15906419" ref="swimming-life"/>
+    <file name="michael-phelps-natation-olympics_1920x1200_477-wide.jpg" crc="3879820240" seo="true" ref="swimming-life">
+      <caption webpage="swimming-life" alt=""/>
+      <caption webpage="swimming-life" alt=""/>
+    </file>
+    <file name="skills-favicon.ico" crc="15906419" ref="skills"/>
+    <file name="karate-favicon.ico" crc="15906419" ref="karate"/>
+    <file name="karatebanner2.jpg" crc="227527466" ref="karate">
+      <caption webpage="karate" alt=""/>
+      <caption webpage="karate" alt=""/>
+    </file>
+    <file name="wp_20170122_10_16_16_pro.jpg" crc="326569038" seo="true" ref="karate">
+      <caption webpage="karate" alt=""/>
+      <caption webpage="karate" alt=""/>
+    </file>
+    <file name="music-favicon.ico" crc="15906419" ref="music"/>
+    <file name="musicbanner2.jpg" crc="4150339762" ref="music">
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="violinn.jpg" crc="4014992879" seo="true" ref="music">
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="screenshot (70)2.jpg" crc="153098995" seo="true" ref="dominos">
+      <caption webpage="dominos" alt=""/>
+      <caption webpage="dominos" alt=""/>
+    </file>
+    <file name="screenshot (71).jpg" crc="4282998721" seo="true" ref="dominos">
+      <caption webpage="dominos" alt=""/>
+      <caption webpage="dominos" alt=""/>
+    </file>
+    <file name="screenshot (72).jpg" crc="3920020935" seo="true" ref="dominos">
+      <caption webpage="dominos" alt=""/>
+      <caption webpage="dominos" alt=""/>
+    </file>
+    <file name="screenshot (73).jpg" crc="4125638822" seo="true" ref="dominos">
+      <caption webpage="dominos" alt=""/>
+      <caption webpage="dominos" alt=""/>
+    </file>
+    <file name="screenshot (74).jpg" crc="483492303" seo="true" ref="dominos">
+      <caption webpage="dominos" alt=""/>
+      <caption webpage="dominos" alt=""/>
+    </file>
+    <file name="screenshot (75).jpg" crc="31965937" seo="true" ref="dominos">
+      <caption webpage="dominos" alt=""/>
+      <caption webpage="dominos" alt=""/>
+    </file>
+    <file name="screenshot (76).jpg" crc="282990246" seo="true" ref="dominos">
+      <caption webpage="dominos" alt=""/>
+      <caption webpage="dominos" alt=""/>
+    </file>
+    <file name="screenshot (77).jpg" crc="3849002454" seo="true" ref="dominos">
+      <caption webpage="dominos" alt=""/>
+      <caption webpage="dominos" alt=""/>
+    </file>
+    <file name="screenshot (78).jpg" crc="3881224715" seo="true" ref="dominos">
+      <caption webpage="dominos" alt=""/>
+      <caption webpage="dominos" alt=""/>
+    </file>
+    <file name="screenshot (79).jpg" crc="36193879" seo="true" ref="dominos">
+      <caption webpage="dominos" alt=""/>
+      <caption webpage="dominos" alt=""/>
+    </file>
+    <file name="screenshot (80).jpg" crc="4263935866" seo="true" ref="dominos">
+      <caption webpage="dominos" alt=""/>
+      <caption webpage="dominos" alt=""/>
+    </file>
+    <file name="screenshot (81).jpg" crc="70109042" seo="true" ref="dominos">
+      <caption webpage="dominos" alt=""/>
+      <caption webpage="dominos" alt=""/>
+    </file>
+    <file name="intellij-idea-logo-f0395ef783-seeklogocom.png" crc="140780774" seo="true" ref="dominos">
+      <caption webpage="dominos" alt=""/>
+      <caption webpage="dominos" alt=""/>
+    </file>
+    <file name="url.png" crc="69067739" seo="true" ref="dominos">
+      <caption webpage="dominos" alt=""/>
+      <caption webpage="dominos" alt=""/>
+    </file>
+    <file name="b62xj9fcuaa3yoc.png" crc="439957158" seo="true" ref="dominos">
+      <caption webpage="dominos" alt=""/>
+      <caption webpage="dominos" alt=""/>
+    </file>
+    <file name="000webhostbannerremover.jpg" crc="4155463454" seo="true" ref="webhost">
+      <caption webpage="webhost" alt=""/>
+      <caption webpage="webhost" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_template.css" crc="179507017" ref="phone>skills:phone>about-me:phone>music:phone>sripalee-site:phone>karate:phone>creations:phone>lifestyle:phone>contact:phone>my-site:phone>swimming-life"/>
+      <file name="nomq_preview_master_template.css" crc="3824530138" ref="phone>skills:phone>about-me:phone>music:phone>sripalee-site:phone>karate:phone>creations:phone>lifestyle:phone>contact:phone>my-site:phone>swimming-life"/>
+      <file name="skills.css" crc="319415424" ref="phone>skills"/>
+      <file name="index.css" crc="3954874039" ref="phone>index"/>
+      <file name="about-me.css" crc="4239967312" ref="phone>about-me"/>
+      <file name="music.css" crc="4283071275" ref="phone>music"/>
+      <file name="nomq_music.css" crc="3824530138" ref="phone>music"/>
+      <file name="sripalee-site.css" crc="4151961708" ref="phone>sripalee-site"/>
+      <file name="karate.css" crc="281345192" ref="phone>karate"/>
+      <file name="creations.css" crc="86295479" ref="phone>creations"/>
+      <file name="lifestyle.css" crc="531536261" ref="phone>lifestyle"/>
+      <file name="contact.css" crc="485113584" ref="phone>contact"/>
+      <file name="my-site.css" crc="169911861" ref="phone>my-site"/>
+      <file name="swimming-life.css" crc="59608972" ref="phone>swimming-life"/>
+    </folder>
+    <file name="index.html" crc="505099210" seo="true" mt="1500378877900" redirect="true"/>
+    <file name="lifestyle.html" crc="456408324" seo="true" mt="1500378885683" redirect="true"/>
+    <file name="about-me.html" crc="150931046" seo="true" mt="1500378885683" redirect="true"/>
+    <file name="creations.html" crc="495208076" seo="true" mt="1500378885683" redirect="true"/>
+    <file name="contact.html" crc="430373471" seo="true" mt="1500378885683" redirect="true"/>
+    <file name="my-site.html" crc="349963578" seo="true" mt="1500378885683" redirect="true"/>
+    <file name="sripalee-site.html" crc="4294372624" seo="true" mt="1500378885683" redirect="true"/>
+    <file name="skills.html" crc="3901870067" seo="true" mt="1500378885683" redirect="true"/>
+    <file name="swimming-life.html" crc="3855961365" seo="true" mt="1500378885683" redirect="true"/>
+    <file name="karate.html" crc="4251961630" seo="true" mt="1500378885683" redirect="true"/>
+    <file name="music.html" crc="108626528" seo="true" mt="1500378885683" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3778566227" seo="true" mt="1500376195625" redirect="true"/>
+  <file name="lifestyle.html" crc="452259339" seo="true" mt="1500378292303" redirect="true"/>
+  <file name="aboutme.html" crc="3777373392" seo="true" mt="1500378298230" redirect="true"/>
+  <file name="creations.html" crc="3819181325" seo="true" mt="1500378304056" redirect="true"/>
+  <file name="contact.html" crc="22468246" seo="true" mt="1500378309932" redirect="true"/>
+  <file name="my-site.html" crc="4120967905" seo="true" mt="1500383317586" redirect="true"/>
+  <file name="sripalee-website.html" crc="3758756439" seo="true" mt="1500383318454" redirect="true"/>
+  <file name="swimming-life.html" crc="3914085498" seo="true" mt="1500383319163" redirect="true"/>
+  <file name="skills.html" crc="175802779" seo="true" mt="1500378238141" redirect="true"/>
+  <file name="karate.html" crc="4275553744" seo="true" mt="1500383321468" redirect="true"/>
+  <file name="music.html" crc="3922644439" seo="true" mt="1500383322039" redirect="true"/>
+  <file name="dominos.html" crc="405501802" seo="true" mt="1500378285585" redirect="true"/>
+  <file name="webhost.html" crc="376199647" seo="true" mt="1500383014564" redirect="true"/>
+</manifest>
